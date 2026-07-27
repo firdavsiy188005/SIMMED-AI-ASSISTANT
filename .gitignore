@@ -1,0 +1,44 @@
+# === SIRLAR / SECRETS ===
+.env
+.env.*
+!.env.example
+config/api_keys.json
+config/*_keys.json
+config/credentials.json
+*.key
+*.pem
+token.txt
+
+# === TALABA MA'LUMOTLARI (shaxsiy) / STUDENT DATA (personal) ===
+data/admin_students.json
+data/admin_results.json
+data/virtual_kasalxona.json
+data/staff.json
+data/photos/
+data/hisobotlar/
+memory/long_term.json
+
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# === IDE ===
+.vscode/
+.idea/
+
+# === LOG / DB ===
+*.db
+*.sqlite3
+logs/
+*.log
+
+# === WINDOWS ===
+Thumbs.db
+desktop.ini

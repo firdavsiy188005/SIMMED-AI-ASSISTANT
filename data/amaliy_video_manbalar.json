@@ -1,0 +1,41 @@
+{
+  "_info": "SIMMED amaliy ko'nikma video manbalari. FAQAT tekshirilgan rasmiy kanallar. direct_url — qo'lda tekshirilgan aniq video (ustuvor). direct_url bo'sh bo'lsa, qidiruv faqat verified_channels ichida cheklanadi (channelId bilan). Hech qachon tasodifiy YouTube natijasi ishlatilmaydi.",
+  "verified_channels": [
+    { "handle": "@ADTISIMULYATSIYAMARKAZI", "name": "ADTI Simulyatsiya Markazi (o'z kanalimiz)", "priority": 1 },
+    { "handle": "@GeekyMedics", "name": "Geeky Medics", "priority": 2 },
+    { "handle": "@osmosis", "name": "Osmosis from Elsevier", "priority": 2 },
+    { "handle": "@WHO", "name": "World Health Organization", "priority": 2 },
+    { "handle": "@ArmandoHasudungan", "name": "Armando Hasudungan", "priority": 3 },
+    { "handle": "@Medskl", "name": "Medskl / Learning in 10", "priority": 3 }
+  ],
+  "skills": [
+    { "keys": ["cpr", "reanimatsiya", "yurak massaji", "yurak-o'pka", "serdechno", "реанимация", "сердечно"], "title": "Cardiopulmonary Resuscitation (CPR) — kattalarda", "search_terms": "adult CPR basic life support demonstration", "direct_url": "" },
+    { "keys": ["bolalar cpr", "pediatrik reanimatsiya", "pediatric cpr", "детская реанимация"], "title": "Pediatric CPR", "search_terms": "pediatric CPR paediatric basic life support", "direct_url": "" },
+    { "keys": ["aed", "defibrilyator", "defibrillator", "дефибриллятор"], "title": "AED — avtomatik tashqi defibrillyator", "search_terms": "how to use AED automated external defibrillator", "direct_url": "" },
+    { "keys": ["intubatsiya", "traxeal", "intubation", "интубация"], "title": "Endotraxeal intubatsiya", "search_terms": "endotracheal intubation procedure demonstration", "direct_url": "" },
+    { "keys": ["bo'g'ilish", "geymlix", "heimlich", "choking", "удушье"], "title": "Bo'g'ilish — Geymlix manevri", "search_terms": "choking Heimlich maneuver adult", "direct_url": "" },
+    { "keys": ["venoz", "kateter", "vena punksiya", "venepuncture", "iv cannula", "катетер"], "title": "Periferik venoz kateterizatsiya", "search_terms": "peripheral IV cannulation venepuncture technique", "direct_url": "" },
+    { "keys": ["qon olish", "flebotomiya", "phlebotomy", "blood draw", "забор крови"], "title": "Qon olish (flebotomiya)", "search_terms": "phlebotomy blood draw venepuncture technique", "direct_url": "" },
+    { "keys": ["ekg", "ecg", "elektrokardiogramma", "экг"], "title": "EKG olish va tahlili", "search_terms": "how to perform 12 lead ECG placement", "direct_url": "" },
+    { "keys": ["qon bosim", "arterial bosim", "blood pressure", "давление"], "title": "Arterial qon bosimini o'lchash", "search_terms": "how to measure blood pressure manual technique", "direct_url": "" },
+    { "keys": ["yurak auskultatsiya", "cardiac auscultation", "аускультация сердца"], "title": "Yurak auskultatsiyasi", "search_terms": "cardiovascular examination auscultation heart sounds", "direct_url": "" },
+    { "keys": ["o'pka auskultatsiya", "nafas", "respiratory exam", "lung auscultation", "дыхание"], "title": "O'pka auskultatsiyasi va nafas tekshiruvi", "search_terms": "respiratory examination lung auscultation", "direct_url": "" },
+    { "keys": ["qorin", "abdominal", "palpatsiya", "живот"], "title": "Qorin bo'shlig'i tekshiruvi (palpatsiya)", "search_terms": "abdominal examination palpation technique", "direct_url": "" },
+    { "keys": ["kateterizatsiya", "siydik", "urinary catheter", "foley", "мочевой катетер"], "title": "Siydik pufagi kateterizatsiyasi", "search_terms": "urinary catheterisation Foley catheter male female", "direct_url": "" },
+    { "keys": ["nazogastral", "zond", "ng tube", "nasogastric", "назогастральный"], "title": "Nazogastral zond qo'yish", "search_terms": "nasogastric tube NG tube insertion", "direct_url": "" },
+    { "keys": ["in'eksiya", "mushak ichi", "im", "intramuscular", "укол"], "title": "Mushak ichiga in'eksiya (IM)", "search_terms": "intramuscular injection technique demonstration", "direct_url": "" },
+    { "keys": ["teri osti", "subkutan", "subcutaneous", "sc injection", "подкожно"], "title": "Teri ostiga in'eksiya (SC)", "search_terms": "subcutaneous injection technique", "direct_url": "" },
+    { "keys": ["qo'l yuvish", "gigiena", "hand hygiene", "hand washing", "мытьё рук"], "title": "Qo'l gigienasi (asepsis)", "search_terms": "WHO hand hygiene technique steps", "direct_url": "" },
+    { "keys": ["steril qo'lqop", "sterile gloves", "gloving", "стерильные перчатки"], "title": "Steril qo'lqop kiyish", "search_terms": "sterile gloving technique surgical", "direct_url": "" },
+    { "keys": ["tikuv", "chok", "suturing", "suture", "швы"], "title": "Jarrohlik tikuvi (suturing)", "search_terms": "basic suturing technique simple interrupted", "direct_url": "" },
+    { "keys": ["bog'lam", "bandaj", "wound dressing", "bandaging", "перевязка"], "title": "Yara bog'lami (dressing)", "search_terms": "wound dressing technique aseptic", "direct_url": "" },
+    { "keys": ["oftalmoskopiya", "ophthalmoscopy", "fundus", "офтальмоскопия"], "title": "Oftalmoskopiya", "search_terms": "fundoscopy ophthalmoscopy examination technique", "direct_url": "" },
+    { "keys": ["otoskopiya", "quloq", "otoscopy", "ear exam", "отоскопия"], "title": "Otoskopiya (quloq tekshiruvi)", "search_terms": "otoscopy ear examination technique", "direct_url": "" },
+    { "keys": ["nevrologik", "neurological exam", "refleks", "неврологический"], "title": "Nevrologik tekshiruv", "search_terms": "neurological examination upper lower limb", "direct_url": "" },
+    { "keys": ["glazgo", "hush darajasi", "gcs", "glasgow coma", "глазго"], "title": "Glazgo koma shkalasi (GCS)", "search_terms": "Glasgow Coma Scale assessment explained", "direct_url": "" },
+    { "keys": ["kislorod", "oxygen therapy", "maska", "кислород"], "title": "Kislorod terapiyasi", "search_terms": "oxygen therapy administration mask nasal cannula", "direct_url": "" },
+    { "keys": ["nafas yo'li", "airway", "ambu", "bag valve mask", "дыхательные пути"], "title": "Nafas yo'lini boshqarish (Ambu / BVM)", "search_terms": "bag valve mask ventilation airway management", "direct_url": "" },
+    { "keys": ["tug'ruq", "akusherlik", "delivery", "childbirth", "роды"], "title": "Normal tug'ruqni qabul qilish", "search_terms": "normal vaginal delivery mechanism demonstration", "direct_url": "" },
+    { "keys": ["gips", "immobilizatsiya", "plaster cast", "splint", "иммобилизация"], "title": "Gips/shina immobilizatsiyasi", "search_terms": "plaster cast application splinting technique", "direct_url": "" }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "_izoh": "NAMUNA. Haqiqiy baza — 270+ ADTI amaliy ko'nikmasi (institut o'quv materiallari, ochiq repozitoriyga chiqarilmagan). Bu yerda faqat sxema va 3 ta umumiy (ochiq protokol) yozuv ko'rsatilgan. Ishga tushirishda fayl nomi: data/amaliy_konikmalar.json",
+    "_note": "SAMPLE ONLY. The real knowledge base holds 270+ practical skills from ADTI course materials and is not published. These 3 entries use publicly available protocols and exist to document the schema."
+  },
+  {
+    "fakultet": "Davolash",
+    "kafedra": "Anesteziologiya-reanimatologiya",
+    "fayl": "amaliy_konikmalar_reanimatsiya.docx",
+    "nomi": "Kattalarda yurak-o'pka reanimatsiyasi (CPR)",
+    "matn": "Kattalarda yurak-o'pka reanimatsiyasi (CPR)\n\n1. XAVFSIZLIK. Voqea joyi xavfsizligini baholang (o'zingiz, atrofdagilar, bemor).\n2. HUSHNI TEKSHIRISH. Yelkasidan qoqib, baland ovozda murojaat qiling.\n3. YORDAM CHAQIRISH. Hushsiz bo'lsa — darhol 103 ga qo'ng'iroq, AED so'rang.\n4. NAFASNI BAHOLASH. Nafas yo'lini oching (bosh orqaga, iyak yuqoriga), 10 soniyagacha nafasni ko'ring/eshiting/his qiling. Agonal nafas — nafas emas.\n5. KOMPRESSIYA. To'sh suyagi markazining pastki yarmiga, ikki kaft ustma-ust.\n   - Chuqurlik: 5–6 sm\n   - Chastota: 100–120 marta/daqiqa\n   - Ko'krak qafasining to'liq tiklanishiga imkon bering\n   - Uzilishlar 10 soniyadan oshmasin\n6. NISBAT: 30 kompressiya : 2 nafas.\n7. AED kelishi bilan — darhol ulang va ovozli ko'rsatmaga amal qiling.\n8. Almashish: har 2 daqiqada reanimatorni almashtiring (charchash effektivlikni tushiradi).\n\nMUHIM RAQAMLAR: 30:2 | 5–6 sm | 100–120/min | har 2 daqiqada almashish.\nOGOHLANTIRISH: Bu o'quv-simulyatsiya materiali. Real klinik holatda amaldagi milliy protokol va malakali shifokor ko'rsatmasi ustuvor."
+  },
+  {
+    "fakultet": "Davolash",
+    "kafedra": "Shoshilinch tibbiy yordam",
+    "fayl": "amaliy_konikmalar_shoshilinch.docx",
+    "nomi": "Anafilaktik shokda shoshilinch yordam",
+    "matn": "Anafilaktik shokda shoshilinch yordam\n\n1. TANIB OLISH. To'satdan boshlangan teri/shilliq belgilari (eshakemi, shish) + nafas qiyinlashuvi YOKI bosim tushishi. Allergen bilan kontakt anamnezi.\n2. ALLERGENNI TO'XTATING. Dori infuziyasini to'xtating, chaqish nayzasini oling.\n3. ADRENALIN — birinchi va asosiy chora. Kechiktirmang.\n   - Kattalar: 0,5 mg (0,5 ml 1:1000) mushak ichiga, sonning o'rta-tashqi yuzasiga\n   - Zarurat bo'lsa 5 daqiqadan keyin takrorlang\n4. HOLAT. Bemorni chalqancha yotqizing, oyoqlarni ko'taring. Nafas qiyin bo'lsa — o'tirgan holat. To'satdan tik turg'izmang.\n5. KISLOROD. Yuqori oqimli kislorod bering.\n6. SUYUQLIK. Yo'g'on venoz yo'l oching, kristalloid bolus.\n7. KUZATUV. Ikki fazali reaksiya xavfi — bemor kuzatuvsiz qoldirilmaydi.\n\nMUHIM RAQAMLAR: adrenalin 0,5 mg IM (kattalar) | 5 daqiqada takror | IM yo'l — birinchi tanlov.\nOGOHLANTIRISH: Bu o'quv-simulyatsiya materiali. Doza va taktika bo'yicha amaldagi milliy protokol va malakali shifokor ko'rsatmasi ustuvor."
+  },
+  {
+    "fakultet": "Umumiy",
+    "kafedra": "Infeksiya nazorati",
+    "fayl": "amaliy_konikmalar_gigiena.docx",
+    "nomi": "Qo'l gigienasi (JSST 5 ta moment / 6 bosqich)",
+    "matn": "Qo'l gigienasi\n\nJSST — 5 TA MOMENT:\n1. Bemorga tegishdan OLDIN\n2. Toza/aseptik muolajadan OLDIN\n3. Biologik suyuqlik bilan kontakt xavfidan KEYIN\n4. Bemorga tegishdan KEYIN\n5. Bemor atrofidagi jihozlarga tegishdan KEYIN\n\n6 BOSQICH (ishqalash texnikasi):\n1. Kaftni kaftga\n2. Kaft ustki qismini barmoqlar oralab\n3. Kaftni kaftga barmoqlar chalishtirilgan holda\n4. Barmoq orqa yuzasini qarama-qarshi kaftga\n5. Bosh barmoqni aylanma harakat bilan\n6. Barmoq uchlarini kaftga aylanma harakat bilan\n\nVAQT: antiseptik bilan 20–30 soniya | suv va sovun bilan 40–60 soniya.\nOGOHLANTIRISH: Bu o'quv-simulyatsiya materiali."
+  }
+]
